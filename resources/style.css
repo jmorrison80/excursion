@@ -1,4 +1,32 @@
 /*general*/
 html {
     font-family:Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 50px;    
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;    
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+.copyright {
+    text-align: right;    
 }
